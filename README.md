@@ -57,8 +57,8 @@ Step 1: Clone the Repository
 
     bash
 
-    git clone https://github.com/yourusername/chatbot-langchain-bedrock.git
-    cd chatbot-langchain-bedrock
+  gh repo clone Akshaylukaday/Chatbot-with-LangChain-Amazon-Bedrock-and-Streamlit
+  cd Chatbot-with-LangChain-Amazon-Bedrock-and-Streamlit
 
 Step 2: Run Streamlit Application
 
@@ -82,7 +82,7 @@ File Structure
 bash
 
 ├── app.py                     # Main Streamlit application
-├── chatbot_backend.py          # Backend functions for LLM and memory management
+├── backend.py          # Backend functions for LLM and memory management
 ├── requirements.txt            # Python dependencies
 └── README.md                   # This documentation
 
