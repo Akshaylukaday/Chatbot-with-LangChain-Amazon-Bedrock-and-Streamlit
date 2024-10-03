@@ -93,7 +93,7 @@ Key Files and Code Explanation
 
     app.py:
         The main entry point for the Streamlit application. It handles the user interface (UI) and interaction with the chatbot.
-    chatbot_backend.py:
+    backend.py:
         Contains functions to initialize the Bedrock model and manage conversation memory using LangChain.
 
 Dependencies
